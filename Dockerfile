@@ -1,4 +1,4 @@
-FROM node:8.11.1-wheezy
+FROM node:carbon
 
 # Create app directory
 WORKDIR /usr/src/app
